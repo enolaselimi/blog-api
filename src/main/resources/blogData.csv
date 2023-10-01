@@ -1,0 +1,5 @@
+post_id,title,body,user_id,user_name,user_email,user_pass,category_id,category
+1,A,aaaa,1,enola,enola@test.com,enola,1,tech
+2,B,bbbb,2,eneida,eneida@test.com,eneida,2,kimi
+3,C,cccc,3,erisa,erisa@test.com,erisa,3,finance
+4,D,dddd,1,enola,enola@test.com,enola,1,tech
